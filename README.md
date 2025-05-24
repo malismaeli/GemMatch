@@ -1,5 +1,4 @@
 # CS Gem Match  
-**Author:** Mustafa Alismaeli  
 
 ## 🧩 Game Description
 
